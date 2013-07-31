@@ -1,0 +1,10 @@
+NAME="sharutils"
+VERSION=4.13.5
+RELEASE=1
+CATEGORY="Archive"
+SUMMARY="Shell archive de/encoder"
+DESCRIPTION="GNU shar makes so-called shell archives out of many files,
+preparing them for transmission by electronic mail services. A shell archive
+is a collection of files that can be unpacked by /bin/sh."
+HOMEPAGE="http://www.gnu.org/software/sharutils/"
+SRC_URI="mirror://gnu/sharutils/sharutils-${VERSION}.tar.xz"
